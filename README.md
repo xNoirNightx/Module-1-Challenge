@@ -49,6 +49,9 @@ https://www.w3schools.com/
 
 https://www.youtube.com/watch?v=bOUhq46fd5g
 
+> **Note**: The base code , user story and acceptance criteria was provided to me in class
+ UNB-VIRT-FSF-PT-04-2023-U-LOLC for Week 1 Challenge.
+
 
 ## My Githubs
 
