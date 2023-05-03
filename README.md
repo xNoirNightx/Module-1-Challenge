@@ -38,7 +38,7 @@ I feel as I have accoplished the task set for me and look forward to the next on
 
 The following image shows the web application after I edited the code.
 
-![The Horiseon webpage after my edits.](./Assets/Corals%20Desktop%20Screenshot.jpeg)
+![The Horiseon webpage after my edits.](./Assets/images/Corals%20Desktop%20Screenshot.jpeg)
 
 > **Note**: This layout image is screen shot from a desktop computers web browser. It displays differently vs on Vscode.
 
